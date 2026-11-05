@@ -88,3 +88,4 @@ function* handleFetchAnalytics(action) {
 export default function* analyticsSaga() {
   yield takeLatest(fetchAnalyticsRequest.type, handleFetchAnalytics);
 }
+

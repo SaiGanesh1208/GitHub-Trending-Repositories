@@ -66,3 +66,4 @@ export const FILTER_PERIODS = [
   { id: 14, label: 'Last 2 Weeks', days: 14, description: 'Created in the past 14 days' },
   { id: 30, label: 'Last 1 Month', days: 30, description: 'Created in the past 30 days' },
 ];
+

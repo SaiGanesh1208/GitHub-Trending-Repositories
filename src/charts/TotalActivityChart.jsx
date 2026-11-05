@@ -78,3 +78,4 @@ const TotalActivityChart = ({ normalizedTotal = [], selectedMetric = 'commits' }
 };
 
 export default TotalActivityChart;
+

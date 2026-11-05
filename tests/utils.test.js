@@ -132,3 +132,4 @@ test('chartUtils - Highcharts configuration generation', () => {
   assert.equal(contribOptions.series[0].name, 'alice');
   assert.equal(contribOptions.series[0].data[0], 50);
 });
+

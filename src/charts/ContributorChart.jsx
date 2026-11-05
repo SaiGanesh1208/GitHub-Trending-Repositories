@@ -200,3 +200,4 @@ const ContributorChart = ({
 };
 
 export default ContributorChart;
+

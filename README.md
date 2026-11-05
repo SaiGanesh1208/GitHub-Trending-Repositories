@@ -157,3 +157,4 @@ The compiled assets will be placed in the `dist/` directory.
 
 ## 📜 License
 MIT License.
+

@@ -70,3 +70,4 @@ const RepositoryList = ({ repositories = [], onRetry }) => {
 };
 
 export default RepositoryList;
+
